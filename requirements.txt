@@ -1,0 +1,4 @@
+google-genai>=1.50.0
+numpy
+faiss-cpu
+python-dotenv
